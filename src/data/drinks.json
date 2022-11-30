@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "name": "Burger bò",
+        "image": "https://cdn.daylambanh.edu.vn/wp-content/uploads/2020/10/cong-thuc-lam-hamburger.jpg",
+        "price": 45000,
+        "owner": "Lotteria ",
+        "ice": [
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hamburger có nguồn gốc từ nước Đức, thường được bán ở các cửa hàng thức ăn nhanh và trở thành món ăn khoái khẩu của nhiều người. Với vỏ bánh thơm mềm kết hợp cùng nhân thịt đậm đà và nước sốt Mayonnaise béo ngậy, loại bánh này luôn “gây nghiện” cho thực khách ngay lần thưởng thức đầu tiên"
+    },
+    {
+        "id": 1,
+        "name": "Pizza",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Pizza_Vi%E1%BB%87t_Nam_%C4%91%E1%BA%BF_d%C3%A0y%2C_x%C3%BAc_x%C3%ADch_%28SNaT_2018%29_%287%29.jpg",
+        "price": 85000,
+        "owner": "Lotteria",
+        "ice": [
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hương vị bánh hấp dẫn, đa dạng để người ăn có thể chọn theo sở thích chính là điểm cộng cho Pizza. Nếu bạn thích ăn hải sản thì pizza hải sản với mực, tôm sẽ chinh phục bạn; còn nếu thích các loại thịt nguội thì bánh pizza thịt nguội dành riêng cho bạn; nếu bạn đang theo chế độ ăn chay thì cũng có bánh pizza chay đấy! Trong bài này, chúng ta sẽ cùng nhau tìm hiểu cách làm bánh pizza có hương vị đơn giản nhất đó là: món pizza phô mai."
+    },
+    {
+        "id": 2,
+        "name": "Khoai tây chiên",
+        "image": "https://www.thatlangon.com/wp-content/uploads/2020/06/cach-lam-khoai-tay-chien-8561img_5eda0ba306f26.jpg",
+        "price": 20000,
+        "owner": "Lotteria",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Khoai tây chiên (hay còn gọi là khoai tây rán) là một trong những món ăn phổ biến giành cho tất cả những ai thích ăn khoai trong dịp đông đến này, nhất là đối với các bạn trẻ, "
+    },
+    {
+        "id": 3,
+        "name": "Gà rán",
+        "image": "https://dscnnwjxnwl3f.cloudfront.net/media/mageplaza/blog/post/g/o/golden_snow_web.jpg",
+        "price": 65000,
+        "owner": "Lotteria",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+    },
+    {
+        "id": 4,
+        "name": "Hot dog",
+        "image": "https://www.tastingtable.com/img/gallery/13-best-hot-dogs-in-america/intro-1660217636.jpg",
+        "price": 30000,
+        "owner": "Lotteria",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hot dog (hótđóc) là một loại đồ ăn nhanh của Mỹ. Là bánh mì (hot dog bun) kẹp xúc xích, thường có thêm mù tạt, nước sốt cà chua, hành, mayonnaise, gia vị có thể có hoặc không có dưa cải Đức (sauerkraut)."
+    }
+]
